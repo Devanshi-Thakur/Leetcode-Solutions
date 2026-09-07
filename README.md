@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Devanshi-Thakur/Leetcode-Solutions/tree/master/0268-missing-number) |
+| [0412-fizz-buzz](https://github.com/Devanshi-Thakur/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Devanshi-Thakur/Leetcode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2235-add-two-integers](https://github.com/Devanshi-Thakur/Leetcode-Solutions/tree/master/2235-add-two-integers) |
 ## Array
@@ -40,4 +41,12 @@
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Devanshi-Thakur/Leetcode-Solutions/tree/master/1480-running-sum-of-1d-array) |
+## String
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/Devanshi-Thakur/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/Devanshi-Thakur/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
